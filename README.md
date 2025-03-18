@@ -29,7 +29,7 @@ Welcome to my little corner of the internet where **code meets creativity** and 
 
 ---
 
-## 📺 YouTube — [CodeJack](https://youtube.com/@CodeJack)
+## 📺 YouTube — [CodeJack](https://youtube.com/@CodeJackYT)
 🔴 Where I share **programming tutorials**, app dev tips, and creative coding content.
 
 ---
