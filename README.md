@@ -34,6 +34,12 @@ Welcome to my little corner of the internet where **code meets creativity** and 
 
 ---
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@NERUZ/30-nites-of-code)  
+  ![@NERUZ #30NitesOfCode](https://www.codedex.io/api/petStatus?user=NERUZ)
+
+---
+
 ## 🤝 Let’s Connect
 - 📫 Reach me at: `neerajm2k7@gmail.com`
 - 🌐 Portfolio: https://neerajm-official.netlify.app/
