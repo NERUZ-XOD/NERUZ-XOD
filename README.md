@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Neeraj — aka **CodeJack** 💻⚡
+# 👋 Hey there, I'm Neeraj
 
 Welcome to my little corner of the internet where **code meets creativity** and ideas come to life. I'm an aspiring **developer** who loves building apps, learning new tech, and solving real-world problems with code.
 
