@@ -24,8 +24,12 @@ Welcome to my little corner of the internet where **code meets creativity** and 
 ---
 
 ## 📈 GitHub Stats (Because... why not?)
+<p align="center">
 ![CodeJack's GitHub stats](https://github-readme-stats.vercel.app/api?username=NERUZ-XOD&show_icons=true&theme=radical)
+</p>
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NERUZ-XOD&layout=compact&theme=dark&count_private=true)
+</p>
 
 ---
 
