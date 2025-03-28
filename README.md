@@ -28,7 +28,7 @@ Welcome to my little corner of the internet where **code meets creativity** and 
   <img src="https://github-readme-stats.vercel.app/api?username=NERUZ-XOD&show_icons=true&theme=radical" />
 </p>
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NERUZ-XOD&layout=compact&theme=dark&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NERUZ-XOD&layout=compact&theme=dark&count_private=true" />
 </p>
 
 ---
