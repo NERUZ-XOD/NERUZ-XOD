@@ -1,6 +1,8 @@
 # 👋 Hey there, I'm Neeraj
 
-Welcome to my little corner of the internet where **code meets creativity** and ideas come to life. I'm an aspiring **developer** who loves building apps, learning new tech, and solving real-world problems with code.
+This is my space on the internet where I build stuff, break stuff, and learn along the way.
+
+I’m into code, creativity, and making things that actually work. Right now, I’m focused on app development, learning new tech, and solving real-world problems with clean, functional code.
 
 ---
 
@@ -30,11 +32,6 @@ Welcome to my little corner of the internet where **code meets creativity** and 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NERUZ-XOD&layout=compact&theme=dark&count_private=true" />
 </p>
-
----
-
-## 📺 YouTube — [CodeJack](https://youtube.com/@CodeJackYT)
-🔴 Where I share **programming tutorials**, app dev tips, and creative coding content.
 
 ---
 
