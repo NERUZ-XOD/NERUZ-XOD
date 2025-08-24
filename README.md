@@ -43,6 +43,6 @@ I’m into code, creativity, and making things that actually work. Right now, I�
 
 ## 🤝 Let’s Connect
 - 📫 Reach me at: `neerajm2k7@gmail.com`
-- 🌐 Portfolio: https://neerajm-official.netlify.app/
+- 🌐 Portfolio: neerajm.me
 
 ---
